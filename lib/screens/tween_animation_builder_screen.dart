@@ -12,7 +12,7 @@ class TweenAnimationBuilderScreen extends StatelessWidget {
             'Tween Animation Builder',
           ),
         ),
-        body: Center(
+        body: const Center(
           child: HSLColorSelector(),
         ),
       ),
